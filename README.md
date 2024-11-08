@@ -1,5 +1,4 @@
-portaudio-playground
-====================
+cpp-eisensteins-criterion-playground
+====================================
+[Eisenstein's criterion - Wikipedia](https://en.wikipedia.org/wiki/Eisenstein%27s_criterion)
 
-### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
